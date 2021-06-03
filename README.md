@@ -66,7 +66,7 @@
       />
 	<img
         width="750em"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=descifrador&theme=react-dark&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Last+7+Days+of+Coding&title_color=ffffff&layout=compact&range=last_7_days"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=descifrador&theme=react-dark&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Last+7+Days+of+Coding&title_color=ffffff&layout=compact"
       />
   </p>
   
