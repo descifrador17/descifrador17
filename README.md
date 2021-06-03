@@ -66,10 +66,10 @@
       />
 	<img
         width="750em"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=descifrador&theme=react-dark&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Coding+Time&layout=compact&title_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=descifrador&theme=react-dark&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Last+7+Days+of+Coding&title_color=ffffff&layout=compact&range=last_7_days"
       />
   </p>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  
 
   
 ---
