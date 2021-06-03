@@ -64,8 +64,13 @@
         width="750em"
         src="https://activity-graph.herokuapp.com/graph?username=descifrador17&theme=react-dark&hide_border=true&bg_color=232e48&area=true"
       />
+	<img
+        width="750em"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=descifrador&theme=react-dark&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Coding+Time&layout=compact&title_color=ffffff"
+      />
   </p>
-  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ---
 
