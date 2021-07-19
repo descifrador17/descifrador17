@@ -41,9 +41,9 @@
 
  <h4 align="left"> ℹ Yep! That's me!!</h4>
  
-- 🎓 Third Year Electronics and Communication Engineering Undergraduate.
+- 🎓 Fourth Year Electronics and Communication Engineering Undergraduate.
 - 👨🏼‍💻 Started as an Android Enthusiast, now Exploring iOS World.
-- 🐱‍💻 Working as an iOS Developer Intern [@LBrands](https://www.lb.com/).
+- 🐱‍💻 Ex-iOS Developer Intern [@LBrands](https://www.lb.com/).
 - 🎮 Work Hard, Play Harder.
 - 🤜🏼 Mottos - <em>"Veni Vidi Vici"</em>, <em>"Fortis Fortuna Adiuvat"</em>
 
