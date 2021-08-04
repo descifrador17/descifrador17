@@ -43,8 +43,8 @@
  
 - 🎓 Fourth Year Electronics and Communication Engineering Undergraduate.
 - 👨🏼‍💻 Started as an Android Enthusiast, now Exploring iOS World.
-- 🐱‍💻 Ex-iOS Developer Intern [@LBrands](https://www.lb.com/).
-- 🎮 Work Hard, Play Harder.
+- 🐱‍💻 iOS Developer Intern [@CRED](https://cred.club/).
+- 🎮 Work Hard, Play Harder. #HaloSpartan
 - 🤜🏼 Mottos - <em>"Veni Vidi Vici"</em>, <em>"Fortis Fortuna Adiuvat"</em>
 
 ---
