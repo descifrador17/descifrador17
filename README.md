@@ -51,24 +51,25 @@
 
  <h4 align="left">💹 Github Stats</h4>
  
-  <p align="center">
+   <p align="center">
       <img
         height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=descifrador17&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=232e48&title_color=ffffff&text_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api?username=descifrador17&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
       />
     <img
         height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=descifrador17&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark&bg_color=232e48&title_color=ffffff&text_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=descifrador17&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
       />
       <img
         width="750em"
-        src="https://activity-graph.herokuapp.com/graph?username=descifrador17&theme=react-dark&hide_border=true&bg_color=232e48"
+        src="https://activity-graph.herokuapp.com/graph?username=descifrador17&theme=react-dark&hide_border=true&bg_color=232e48&area=true"
       />
 	<img
         width="750em"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=descifrador&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Last+Week+be+like+;)&title_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=descifrador&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Last+Week+be+like+;)&title_color=ffffff&layout=compact"
       />
   </p>
+  
   
 
   
