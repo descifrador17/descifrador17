@@ -42,8 +42,8 @@
  <h4 align="left"> ℹ Yep! That's me!!</h4>
  
 - 🎓 Fourth Year Electronics and Communication Engineering Undergraduate.
-- 👨🏼‍💻 Started as an Android Enthusiast, now Exploring iOS World.
-- 🐱‍💻 iOS Developer Intern [@CRED](https://cred.club/).
+- 👨🏼‍💻 iOS is D O P E .
+- 🐱‍💻 iOS Intern [@CRED](https://cred.club/).
 - 🎮 Work Hard, Play Harder. #HaloSpartan
 - 🤜🏼 Mottos - <em>"Veni Vidi Vici"</em>, <em>"Fortis Fortuna Adiuvat"</em>
 
