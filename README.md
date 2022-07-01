@@ -41,8 +41,8 @@
 
  <h4 align="left"> ℹ Yep! That's me!!</h4>
  
-- 🎓 Fourth Year Electronics and Communication Engineering Undergraduate.
-- 👨🏼‍💻 iOS is D O P E .
+- 🎓 Electronics and Communication Engineer.
+- 👨🏼‍💻 ditched Android for iOS .
 - 📱 iOS [@CRED](https://cred.club/).
 - 🎮 Work Hard, Play Harder. #HaloSpartan
 - 🤜🏼 Mottos - <em>"Veni Vidi Vici"</em>, <em>"Fortis Fortuna Adiuvat"</em>
