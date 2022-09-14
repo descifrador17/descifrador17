@@ -53,14 +53,6 @@
  
    <p align="center">
       <img
-        height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=descifrador17&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-      />
-    <img
-        height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=descifrador17&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-      />
-      <img
         width="750em"
         src="https://activity-graph.herokuapp.com/graph?username=descifrador17&theme=react-dark&hide_border=true&bg_color=232e48&area=true"
       />
