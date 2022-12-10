@@ -49,15 +49,6 @@
 
 ---
 
-<h4 align="center">🎶🎧 Yep! I'm listening 🎧🎶</h4>
-
-<p align="center">
-      <img
-        height="200em"
-        src="https://spotify-github-profile.vercel.app/api/view?uid=h8kadh3xm5qrwcgty9gbanb45&cover_image=true&theme=novatorem"
-      />
-  </p>
-
 <p align="center"><a href="https://memegenerator.net/img/instances/59948034/stop-stalking-me.jpg"> 🖤💜 <em>Hasta La Vista!!</em> 💜🖤</a></p>
 
 
